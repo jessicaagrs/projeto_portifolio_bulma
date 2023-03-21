@@ -1,6 +1,6 @@
 # Portifólio
 
-![N|Solid](https://img.icons8.com/color/48/null/sass.png)![N|Solid](https://img.icons8.com/color/48/000000/javascript--v1.png)![N|Solid](https://img.icons8.com/color/48/000000/html-5--v1.png)![N|Solid](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png)
+![N|Solid](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg)![N|Solid](https://img.icons8.com/color/48/000000/javascript--v1.png)![N|Solid](https://img.icons8.com/color/48/000000/html-5--v1.png)![N|Solid](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png)
 
 
 Portifólio com informações sobre carreira e amostra de projetos.

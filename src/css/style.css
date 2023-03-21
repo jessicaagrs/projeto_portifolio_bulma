@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fixed {
+    position: fixed !important;
+}
+
+.widthImage {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.animated:hover {
+    animation: pulse; 
+    animation-duration: 2s; 
+  }

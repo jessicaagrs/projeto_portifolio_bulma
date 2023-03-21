@@ -7,7 +7,7 @@ Portifólio com informações sobre carreira e amostra de projetos.
 
 ## Como visualizar
 
-Acesse https://jessicaagrs.github.io/projeto_tabelaNotasFiscais_javascript_sass/
+https://jessicaagrs.github.io/projeto_portifolio_bulma/
 
 ## Tecnologias Utilizadas
 

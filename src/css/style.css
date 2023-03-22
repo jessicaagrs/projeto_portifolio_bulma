@@ -5,7 +5,7 @@
 }
 
 .fixed {
-    position: fixed !important;
+    
 }
 
 .widthImage {
@@ -16,4 +16,10 @@
 .animated:hover {
     animation: pulse; 
     animation-duration: 2s; 
-  }
+}
+
+@media (min-width: 1024px) {
+    .fixed {
+        position:fixed;
+    }
+}

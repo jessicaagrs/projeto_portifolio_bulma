@@ -21,7 +21,7 @@ Status do Projeto: :heavy_check_mark: <!-- > :warning:--> Concluído
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-:small_blue_diamond: [Layout](#dependencias-e-libs-utilizadas-books)
+:small_blue_diamond: [Dependencias e libs utilizadas](#dependencias-e-libs-utilizadas-books)
 
 ## Descrição do projeto :pencil:
 
@@ -50,7 +50,7 @@ Liste todas as dependencias e libs que o usuário deve ter instalado na máquina
 
 ## Como rodar a aplicação :arrow_forward:
 
-No terminal(abaixo como abri-lo dependendo do seu sistema operacional do seu computador), clone o projeto: 
+No terminal(abaixo como abri-lo dependendo do seu sistema operacional no seu computador), clone o projeto: 
 
 ```
 git clone https://github.com/jessicaagrs/projeto_portifolio_bulma.git

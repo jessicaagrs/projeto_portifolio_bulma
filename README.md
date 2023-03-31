@@ -11,9 +11,9 @@ Status do Projeto: :heavy_check_mark: <!-- > :warning:--> Concluído
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-pencil)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#funcionalidades-wrench)
 
 :small_blue_diamond: [Layout](#layout-dash)
 
@@ -21,16 +21,15 @@ Status do Projeto: :heavy_check_mark: <!-- > :warning:--> Concluído
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-... 
+:small_blue_diamond: [Layout](#dependencias-e-libs-utilizadas-books)
 
-
-## Descrição do projeto 
+## Descrição do projeto :pencil:
 
 <p align="justify">
   Portifólio que une currículo e apresentação de projetos. 
 </p>
 
-## Funcionalidades
+## Funcionalidades :wrench:
 
 :heavy_check_mark: Currículo com informações sobre carreira.
 
@@ -51,7 +50,7 @@ Liste todas as dependencias e libs que o usuário deve ter instalado na máquina
 
 ## Como rodar a aplicação :arrow_forward:
 
-No terminal do seu computador, clone o projeto: 
+No terminal(abaixo como abri-lo dependendo do seu sistema operacional do seu computador), clone o projeto: 
 
 ```
 git clone https://github.com/jessicaagrs/projeto_portifolio_bulma.git
@@ -103,7 +102,7 @@ Se quiser, coloque uma amostra do banco de dados
 
 Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados  -->
 
-## Linguagens, dependencias e libs utilizadas :books:
+## Dependencias e libs utilizadas :books:
 
 - [Bulma](https://bulma.io/documentation/)
 

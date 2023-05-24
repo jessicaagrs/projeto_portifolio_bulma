@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-.fixed {
-    
-}
-
 .widthImage {
     width: 200px;
     border-radius: 50%;
@@ -23,3 +19,10 @@
         position:fixed;
     }
 }
+
+@media(max-width: 385px){
+    p {
+        font-size: 15px !important;
+    }
+}
+
